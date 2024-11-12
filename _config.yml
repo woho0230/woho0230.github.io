@@ -3,7 +3,7 @@ title: AI - 模型
 SEOTitle: 算家云热门模型 - 让AI更容易
 header-img: img/post-bg-desk.jpg
 email: woho592@gmail.com
-description: "详细介绍, 即学即会"
+# description: "详细介绍, 即学即会"
 keyword: "人工智能, AIGC, 算家云, 算力, 算家计算, 服务器"
 url: "https://woho0230.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
